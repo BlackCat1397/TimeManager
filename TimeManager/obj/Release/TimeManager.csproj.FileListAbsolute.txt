@@ -1,0 +1,10 @@
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\bin\Release\TimeManager.exe.config
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\bin\Release\TimeManager.exe
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\bin\Release\TimeManager.pdb
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.Form1.resources
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.Properties.Resources.resources
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.csproj.GenerateResource.Cache
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.exe
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.pdb
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.csprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2013\Projects\TimeManager\TimeManager\obj\Release\TimeManager.Form2.resources
